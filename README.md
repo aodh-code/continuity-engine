@@ -1,5 +1,9 @@
 # continuity-engine
 
+<!-- BEGIN LOCAL DEPENDENCIES -->
+> **Local dependency status: CLOUD-CAPABLE SOURCE.** The current checked-in Next.js scaffold has no identified Mac-specific runtime or local database. Local folder cleanup remains pending full backup verification. See [local dependencies and cleanup status](docs/local-dependencies.md). Checked 6 November 2026.
+<!-- END LOCAL DEPENDENCIES -->
+
 A personal continuity engine for high-agency people.
 
 ## Thesis
